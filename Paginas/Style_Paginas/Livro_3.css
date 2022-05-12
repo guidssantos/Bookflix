@@ -68,7 +68,8 @@ header nav a:hover{
     margin-bottom: 40px;
     color: white;
     text-align: justify;
-    width: 480px;
+    width: 100%;
+    max-width: 400px;
     
 }
 
@@ -110,17 +111,16 @@ header nav a:hover{
 }
 
 .box-filme{
-    height: 352.781px;
+    height: 350px;
     width: 100%;
     display: block;
     cursor: pointer;
 }
 
-
-.carrosel-filmes{
-    margin-top:5px;
+.title_book {
+    padding: 10px 20px;
 }
-
+    
 
 
 
